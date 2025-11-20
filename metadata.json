@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Trí Việt",
+  "description": "Khai mở tri thức, định hình tương lai.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
